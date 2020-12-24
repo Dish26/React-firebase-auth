@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: black !important;
+    display : flexbox;
+    
+}
+input{
+    border: 2px solid black;
+    margin: 2px;
+    font-size: 15px;
+    padding:10px;
+}
+
+button{
+    border: 2px solid black;
+    margin: 2px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+#front{
+    margin: 40px;
+}
+
+#text{
+    margin: 40px;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
